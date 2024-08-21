@@ -444,7 +444,7 @@
          </figure>
          <p>Conversations with the Tooth Fairy:</p>
          <p>When I was five she stood at the foot of my bed in a dream, wearing an airy, blue,
-            nylon-net gown and glittering rhinestone jewelry, with a little rhinestone coronet on
+            nylon-net gown and glittering rhinestone <material cert="high" xml:space="default">jewelry</material>, with a little rhinestone coronet on
             her head. Her magic wand was star-topped and she looked just like a Tooth Fairy
             should.</p>
          <p>She was going to give me three wishes.</p>
