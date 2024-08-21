@@ -343,7 +343,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Christophe-Roche/LCWorkshop_August2024/main/Russ_LWC/Joanna_Russ_exercise.xml?person_annotation_20240821174744449#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/sp[5]/ab/persName"
+			"rdf:value": "TEI/text/body/sp[5]/ab/note/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -474,9 +474,7 @@
          </sp>
          <sp>
             <speaker>The Fairy:</speaker>
-            <ab>Shall I restore to you your lost heterosexuality so that you may once again on the
-               Late Late Show have strange and brilliant adventures in foreign climes with handsome
-               actors such as <name cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default"><addName>Buster Crabbe</addName></name>, Dirk Bogarde, <persName key="Mason, James (James D.)" ref="http://viaf.org/viaf/9892160667969703560007/">James Mason</persName>, and Christopher Lee?—leaving
+            <ab><note type="citation">Shall I restore to you your lost heterosexuality so that you may once again on the Late Late Show have strange and brilliant adventures in foreign climes with handsome actors such as <name cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default"><addName>Buster Crabbe</addName></name>, Dirk Bogarde, <persName key="Mason, James (James D.)" ref="http://viaf.org/viaf/9892160667969703560007/">James Mason</persName>, and Christopher Lee?</note>—leaving
                it to you to determine what common characteristics (if any) unites this rather
                peculiar list because, my dear (to be perfectly frank), you have the damnedest tastes
                I ever saw.</ab>
